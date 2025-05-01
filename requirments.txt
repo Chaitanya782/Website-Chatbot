@@ -1,0 +1,11 @@
+google-generativeai
+langchain
+langchain-community
+langchain-core
+python-dotenv
+langchain-google-genai
+fastapi
+uvicorn
+faiss-cpu
+-e .
+jinja2
